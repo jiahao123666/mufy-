@@ -1,7 +1,7 @@
 # mufy-新手正则入门
  **Mufy AI 对话渲染正则零基础入门教程**
 [English](https://github.com/jiahao123666/Mufy-Regex-Tutorial-Demo/blob/main/README.md)
-
+[日本語](https://github.com/jiahao123666/mady-regex-zou/blob/main/README.md)
 ## 什么是正则？
 
 
